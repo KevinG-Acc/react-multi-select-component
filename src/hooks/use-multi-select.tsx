@@ -3,12 +3,12 @@ import React, { useEffect, useState } from "react";
 import { Option, SelectProps } from "../lib/interfaces";
 
 const defaultStrings = {
-  allItemsAreSelected: "All items are selected.",
+  allItemsAreSelected: "All",
   clearSearch: "Clear Search",
   clearSelected: "Clear Selected",
   noOptions: "No options",
   search: "Search",
-  selectAll: "Select All",
+  selectAll: "All",
   selectAllFiltered: "Select All (Filtered)",
   selectSomeItems: "Select...",
   create: "Create",
